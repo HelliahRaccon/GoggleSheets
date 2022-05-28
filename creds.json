@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "eternal-brand-351311",
+  "private_key_id": "7a860de6e213987703cb2b02062954c1f55ae192",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC+DyA8KuSrYI7H\nymAqhC/lPuGPxFACjwg+MdLbjDQ1Is+E1GBfyO/yaWpaXo0NUj161/TdtzylWLaM\nL+0oJTpKYr+StxFRvTBuDXx7cbcO9JKcclRJKviA6owYyhcsLf3/wzrA6a9T/pO5\nTOphK9MdColOcj3q+4PkjG1GCAqe6deBS66egbw6L8jSeoeLHq0LisjpL6t3FwSF\nadDLeESxW84epjUrQszW1S6EXeWlvgJUXaqGpwY0+roItzpDNrkLA8F0/97Tqh3+\nLdOIliYXtK4uYJPwsKE5qPcdybkjgsndJepWnfvwz9iaZVMTLADDcWs69/hBYqQc\nEcFRcVU9AgMBAAECggEAC5OKSBmCVVOLsgZunK6+gbBQNtyJokF210SO1Lz4DrOw\nsvHoonNWKIxcZDK8IeKV4hFpvC0SbmCcuQwDEV3rH5rFYAW/vukCHFuJiIKHPuVa\nUYy/lR4fH5ZDTRAKIOPDdwk7xYJP7pLKcEMlR4cboPo1hAF+kGO14Rbe+22dj/5D\nw7e4IFEgukD1+kV20xsjGqKEES/BxtdgXP/Bcn9+T4E1TxpwX/181mc7I0aGKKOQ\nIeUjt1DQcVaEM8z5dLoCosP8GWqKhDy9nhlN6vlDzUFXncEmb1BaVZoLrrhPVUCJ\nRtH4JlqGvQmybLf0uyumnRdTAAN+byIQOVwnxjx1FQKBgQDrvxqdozXjeoElcBLy\nDZ85d0M+ibzR35wQn40KXczFAigTt9ETL8url/pANnfvu58wuWuiYvZmyY5AMV9k\n0xIYu0yGq2GhusPx6n2qmSiIkjzvjQU86+GE/1Ao1GN+y+R1mnkHayjBsoGS7/sQ\nzJacY3dVjUp071UbyI55Kbnn0wKBgQDOYzHb1whqfr/zou5X+iwAwpF6QabPx5uH\n/eq6JnMGJ8ZBPMQBLv9Um+fTOJ2RGiw2FSznXVyF/PdgLluw2dpnIiE40zjw3zp5\n084sH772FEeAGI2/eNYiz4srVLMkzzGNzU/SHANtPja0yqyoTP90J6xnHdZzkW8k\ns/E1GIc0rwKBgC/r1vM4XBnzqxD7KT6++iDqV2b9BL7833KZnEgBLUDW4WKwuPVX\nf+VPrXUkHVlEIGX9Kx4FU+UtD5eI8cVDCqiwWiv95ojDuFUSv5zQKWcpou1nEyuB\nH4SziY3jLp51v+kQD44sgEpviNtfoP+XNv5vUbC4WexPQlO1fxCuJLY1AoGACMoS\nqoEa26YwOIj8y4Rc8V9X4LQBDaI7jmwS3gCbL2zsNYUH9+DvgMPu+IDVvQM3VMpM\nEkJYmWAvjMoMn5h3g6LhdVERgLiQ/fU2N4zWjhZJATyKdNgJjov2Kk8+HdgxDQ/s\nUU9eGf3nSIXFGpnE20aBQhb0NhHAgPik0hUMVQMCgYEAiYB+Pp3BfKTUjmCe8hAu\nHtgk+Mv0OPswnSz4/M58qX45NhzCEaHhiHfvYGl8P1AhLLpI439s/cPGL3frzcrF\ngfgfG1tUq5t8za1gMYqUoxXsyuRkAa792gxaWpFmGldWuvj0m3AxFLzl8n1AYsrN\nP/bEy/DXN6ddhUF3E+KTIdw=\n-----END PRIVATE KEY-----\n",
+  "client_email": "account@eternal-brand-351311.iam.gserviceaccount.com",
+  "client_id": "114192001561678378519",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/account%40eternal-brand-351311.iam.gserviceaccount.com"
+}
